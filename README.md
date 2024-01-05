@@ -1,6 +1,11 @@
 # Project Forge
 Easy CLI tool for creating projects from templates
 
+# Install and update
+```bash
+cargo install -f project-forge
+```
+
 # Usage
 ```bash
 project-forge --help
