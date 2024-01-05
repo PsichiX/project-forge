@@ -1,7 +1,14 @@
 [package]
-name = "project-template"
+name = "project-forge"
 version = "1.0.0"
 edition = "2021"
+authors = ["Patryk 'PsichiX' Budzynski <psichix@gmail.com>"]
+description = "Easy CLI tool for creating projects from templates"
+license = "MIT"
+homepage = "https://github.com/PsichiX/project-forge"
+repository = "https://github.com/PsichiX/project-forge"
+documentation = "https://docs.rs/project-forge"
+readme = "README.md"
 exclude = ["template"]
 
 [dependencies]
