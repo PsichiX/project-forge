@@ -1,0 +1,6 @@
+inject
+```
+fn main() {
+    println!("Welcome to %{ $PROJECT_NAME }% project!");
+}
+```
